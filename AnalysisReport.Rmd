@@ -2,7 +2,7 @@
 title: "Data Preparation, Heatmaps, and Differential Gene Expression Analysis"
 author: "Your Name"
 date: "2023-05-29"
-output: html_document
+output: pdf_document
 ---
 
 ```{r setup, include=FALSE}
